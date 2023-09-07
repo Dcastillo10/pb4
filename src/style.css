@@ -1,0 +1,40 @@
+body {
+    overflow-x: hidden; /* Evita la barra de desplazamiento horizontal */
+}
+.navbar {
+    padding-right: 0; /* Ajusta el espacio en el lado derecho de la barra de navegación */
+}
+.container {
+    padding-left: 0; /* Ajusta el espacio en el lado izquierdo del contenido */
+}
+
+.logo_marca {
+    width: 8%;
+    height: auto;
+  }
+  
+  .logo {
+    padding-top: 3px;
+    padding-bottom: 3px;
+  }
+  
+  .portada {
+    width: 20%;
+    height: 35%;
+  }
+  
+  .radio {
+    width: 45%;
+    height: 60%;
+  }
+  
+  .laliga {
+    width: 45%;
+    height: 60%;
+  }
+
+  .portada-hoy{
+    display: flex;
+    align-items: center;
+  }
+  
